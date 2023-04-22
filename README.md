@@ -1,1 +1,1 @@
-# Sharify-Documentation
+# Sharify
