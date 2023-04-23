@@ -11,7 +11,7 @@
 ## content
 
  - [Motivation](https://github.com/A-bahaa/Sharify-Documentation#motivation) 
- - [Capabilties](https://github.com/A-bahaa/Sharify-Documentation/edit/main/README.md#capabilties)
+ - [Capabilties](https://github.com/A-bahaa/Sharify-Documentation#capabilties)
  - [Product Design]()
  - [Auth]()
  - [How to gain Access]() 
