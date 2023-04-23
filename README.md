@@ -11,7 +11,7 @@
 ## content
 
  - [Motivation](https://github.com/A-bahaa/Sharify-Documentation#motivation) 
- - [Capabilties]()
+ - [Capabilties](https://github.com/A-bahaa/Sharify-Documentation/edit/main/README.md#capabilties)
  - [Product Design]()
  - [Auth]()
  - [How to gain Access]() 
@@ -27,6 +27,21 @@
  **Sadly, Spotify Wrapped comes out only once a year**, so I thought it would be fun to build a tool that gets your Spotify `top tracks` and `artist` of the last month all year and allows us music freaks to share, preview and save these tracks seamlessly.
  
  **Another thing I always wished that Spotify allows sharing** is your `liked tracks` In your library. Currently, you can't share them or even save them to a separate playlist.
+ 
+ ## Capabilties
+ 
+### **Sharify offers the following :**
+- Get your top tracks and artists from your last month on Spotify.
+- Get your all-time liked tracks on your Spotify library.
+- Preview your top tracks, top artists, and liked tracks seamlessly on Sharify.
+- Save and remove specific tracks to your Spotify library.
+- Follow and Unfollow specific artists.
+- Sort different tracks on the release date, popularity, and affinity.
+- Sort different artists on affinity and popularity.
+- Save your top tracks from last month to a separate playlist on your Spotify library.
+- Save your liked tracks from last month to a separate playlist on your Spotify library.
+- Share your top tracks, top artists, and liked tracks. Sharing is achieved by generating a preview link that your friends could open to preview and save your top tracks, top artists, and liked tracks seamlessly.
+- Preview link works with any user even if they're not registered on Sharify.
 
 ## Preview
 - The website is currently hosted on netlify at https://sharify-gh.netlify.app/
