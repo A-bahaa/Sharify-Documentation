@@ -15,7 +15,7 @@
  - [Product Design](https://github.com/A-bahaa/Sharify-Documentation#product-design)
  - [Auth](https://github.com/A-bahaa/Sharify-Documentation#auth)
  - [How to gain Access ?](https://github.com/A-bahaa/Sharify-Documentation#how-to-gain-access-) 
- - [Demo]()
+ - [Demo](https://github.com/A-bahaa/Sharify-Documentation#demo)
  - [Preview](https://github.com/A-bahaa/Sharify-Documentation#preview)
  - [Future Work](https://github.com/A-bahaa/Sharify-Documentation#future-work) 
  
@@ -81,10 +81,14 @@
 
 ## How to gain Access ?
 
-Currently, the app on development mode and only 25 people can log in and try it out but the generated sharing links is available for any number of users.
+**Currently**, the app on development mode and only 25 people can log in and try it out but the generated sharing links is available for any number of users.
 
 To gain access to Sharify reach out to me on [Instagram](https://www.instagram.com/ghonimzz/) .
 
+
+## Demo 
+
+**As stated above** the generated preview links are available to any number of viewers, so here are my [Top Tracks](https://sharify-gh.netlify.app/TopTracks?id=6445850d1394f9ebb95f670d) as recorded on Apr 23 to get a glimpse of what Sharify has to offer.
 
 
 
