@@ -14,7 +14,7 @@
  - [Capabilties](https://github.com/A-bahaa/Sharify-Documentation#capabilties)
  - [Product Design](https://github.com/A-bahaa/Sharify-Documentation#product-design)
  - [Auth](https://github.com/A-bahaa/Sharify-Documentation#auth)
- - [How to gain Access]() 
+ - [How to gain Access ?](https://github.com/A-bahaa/Sharify-Documentation#how-to-gain-access-) 
  - [Demo]()
  - [Preview](https://github.com/A-bahaa/Sharify-Documentation#preview)
  - [Future Work](https://github.com/A-bahaa/Sharify-Documentation#future-work) 
@@ -78,6 +78,13 @@
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/65967989/233858332-ad34b5f3-7fea-42c1-92fb-3b6f55926c03.png" />
 </p>
+
+## How to gain Access ?
+
+Currently, the app on development mode and only 25 people can log in and try it out but the generated sharing links is available for any number of users.
+
+To gain access to Sharify reach out to me on [Instagram](https://www.instagram.com/ghonimzz/) .
+
 
 
 
