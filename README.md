@@ -6,18 +6,18 @@
 <p align="center"> 
   <h1 align="center">Sharify your Spotify</h1>
 </p>
-**Time complexity** `O(ELogV)`  .. Time complexity can be reduced to `O(E + VLogV)` using Fibonacci Heap .
+
 
 ## content
 
- - [Motivation](https://github.com/A-bahaa/competitive-programming-algorithms/blob/main/dfs_bfs.cpp) 
- - [Capabilties](https://github.com/A-bahaa/competitive-programming-algorithms/blob/main/dfs_bfs.cpp)
- - [Product Design](https://github.com/A-bahaa/competitive-programming-algorithms/blob/main/dsu.cpp)
- - [Auth](https://github.com/A-bahaa/competitive-programming-algorithms/blob/main/mst.cpp)
- - [How to gain Access](https://github.com/A-bahaa/competitive-programming-algorithms/blob/main/dijkstra.cpp) 
- - [Demo](https://github.com/A-bahaa/competitive-programming-algorithms/blob/main/bellman.cpp)
- - [Preview]()
- - [Future Work](https://github.com/A-bahaa/competitive-programming-algorithms/tree/main/iterativeDP) 
+ - [Motivation](https://github.com/A-bahaa/Sharify-Documentation#motivation) 
+ - [Capabilties]()
+ - [Product Design]()
+ - [Auth]()
+ - [How to gain Access]() 
+ - [Demo]()
+ - [Preview](https://github.com/A-bahaa/Sharify-Documentation#preview)
+ - [Future Work](https://github.com/A-bahaa/Sharify-Documentation#future-work) 
  
  
  ## Motivation
