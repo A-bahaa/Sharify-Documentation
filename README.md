@@ -13,7 +13,7 @@
  - [Motivation](https://github.com/A-bahaa/Sharify-Documentation#motivation) 
  - [Capabilties](https://github.com/A-bahaa/Sharify-Documentation#capabilties)
  - [Product Design]()
- - [Auth]()
+ - [Auth](https://github.com/A-bahaa/Sharify-Documentation#auth)
  - [How to gain Access]() 
  - [Demo]()
  - [Preview](https://github.com/A-bahaa/Sharify-Documentation#preview)
@@ -46,6 +46,22 @@
 ## Auth
 
 **How Sharify Authorizes the users?**
+
+- Spotify offers different options to authorize users, but since Sharify is a serverless app, I went with the Implicit Grant Flow. 
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/65967989/233858341-717911a2-a728-475e-9206-c8fbd3ee11e7.png" />
+</p>
+
+
+- The implicit grant flow is carried out on the client side and it does not involve secret keys. Thus, you do not need any server-side code to use it. Access tokens issued are short-lived with no refresh token to extend them when they expire.
+
+- Once the access token is expired, the user gets prompted with a modal to refresh the access token.
+
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/65967989/233858332-ad34b5f3-7fea-42c1-92fb-3b6f55926c03.png" />
+</p>
+
+
 
 ## Preview
 - The website is currently hosted on netlify at https://sharify-gh.netlify.app/
