@@ -96,5 +96,5 @@ To gain access to Sharify reach out to me on [Instagram](https://www.instagram.c
 - The website is currently hosted on netlify at https://sharify-gh.netlify.app/
 
 ## Future work
-- for the future of this website, I'll add the ability to list a new pet for adoption as it only fetches the current available pets from the api rn
+
 
