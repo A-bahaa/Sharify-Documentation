@@ -31,17 +31,21 @@
  ## Capabilties
  
 ### **Sharify offers the following :**
-- Get your top tracks and artists from your last month on Spotify.
-- Get your all-time liked tracks on your Spotify library.
-- Preview your top tracks, top artists, and liked tracks seamlessly on Sharify.
+- Get your `top tracks` and `artists` from your last month on Spotify.
+- Get your all-time `liked tracks` on your Spotify library.
+- Preview your `top tracks`, `top artists`, and `liked tracks` seamlessly on Sharify.
 - Save and remove specific tracks to your Spotify library.
 - Follow and Unfollow specific artists.
 - Sort different tracks on the release date, popularity, and affinity.
 - Sort different artists on affinity and popularity.
-- Save your top tracks from last month to a separate playlist on your Spotify library.
-- Save your liked tracks from last month to a separate playlist on your Spotify library.
-- Share your top tracks, top artists, and liked tracks. Sharing is achieved by generating a preview link that your friends could open to preview and save your top tracks, top artists, and liked tracks seamlessly.
+- Save your `top tracks` from last month to a separate playlist on your Spotify library.
+- Save your `liked tracks` from last month to a separate playlist on your Spotify library.
+- Share your `top tracks`, `top artists`, and `liked tracks`. Sharing is achieved by generating a preview link that your friends could open to preview and save your top tracks, top artists, and liked tracks seamlessly.
 - Preview link works with any user even if they're not registered on Sharify.
+
+## Auth
+
+**How Sharify Authorizes the users?**
 
 ## Preview
 - The website is currently hosted on netlify at https://sharify-gh.netlify.app/
