@@ -12,7 +12,7 @@
 
  - [Motivation](https://github.com/A-bahaa/Sharify-Documentation#motivation) 
  - [Capabilties](https://github.com/A-bahaa/Sharify-Documentation#capabilties)
- - [Product Design]()
+ - [Product Design](https://github.com/A-bahaa/Sharify-Documentation#product-design)
  - [Auth](https://github.com/A-bahaa/Sharify-Documentation#auth)
  - [How to gain Access]() 
  - [Demo]()
@@ -42,6 +42,24 @@
 - Save your `liked tracks` from last month to a separate playlist on your Spotify library.
 - Share your `top tracks`, `top artists`, and `liked tracks`. Sharing is achieved by generating a preview link that your friends could open to preview and save your top tracks, top artists, and liked tracks seamlessly.
 - Preview link works with any user even if they're not registered on Sharify.
+
+
+## Product Design
+
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/65967989/233859149-7caa24cc-534e-41cc-a0c6-d5d064a2cc21.png" />
+</p>
+
+**I'll sum up the most important design thoughts in the following points :**
+
+- The tracks are displayed in wide cards inside a n*4 grid to embrace the ease of use and add an aesthetic look to the page.
+- The logo is inspired by the DJ CDs. it even has a rotate animation to mimic the movement of the DJ CDs 
+- I used the same Circular fonts that Spotify use along with their heart icons to add familiarity to the user experience.
+- The preview zone is placed on the left side to inform the user about the current card they're hovering on along with some info about it like the genre, release date, and the popularity measurement.
+- the background color of the preview zone gets changed as the user hovers over different cards to mimic a very known Spotify practice.
+
+
+
 
 ## Auth
 
