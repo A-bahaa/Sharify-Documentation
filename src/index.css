@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap");
+
+@font-face {
+  font-family: "spotify-black";
+  src: local("CircularSpotifyTxT-Black"),
+    url("./fonts/CircularSpotifyTxT-Black.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spotify-black-italic";
+  src: local("CircularSpotifyTxT-BlackItalic"),
+    url("./fonts/CircularSpotifyTxT-BlackItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spotify-bold";
+  src: local("CircularSpotifyTxT-Bold"),
+    url("./fonts/CircularSpotifyTxT-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spotify-bold-italic";
+  src: local("CircularSpotifyTxT-BoldItalic"),
+    url("./fonts/CircularSpotifyTxT-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "spotify-book";
+  src: local("CircularSpotifyTxT-Book"),
+    url("./fonts/CircularSpotifyTxT-Book.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spotify-book-italic";
+  src: local("CircularSpotifyTxT-BookItalic"),
+    url("./fonts/CircularSpotifyTxT-BookItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spotify-light";
+  src: local("CircularSpotifyTxT-Light"),
+    url("./fonts/CircularSpotifyTxT-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spotify-light-italic";
+  src: local("CircularSpotifyTxT-LightItalic"),
+    url("./fonts/CircularSpotifyTxT-LightItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spotify-medium";
+  src: local("CircularSpotifyTxT-Medium"),
+    url("./fonts/CircularSpotifyTxT-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "spotify-medium-italic";
+  src: local("CircularSpotifyTxT-MediumItalic"),
+    url("./fonts/CircularSpotifyTxT-MediumItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "houstelly";
+  src: local("HousttelySignature-GOonZ"),
+    url("./fonts/HousttelySignature-GOonZ.ttf") format("truetype");
+}
+@font-face {
+  font-family: "aauto-signature";
+  src: local("AAutoSignature-1GD9j"),
+    url("./fonts/AAutoSignature-1GD9j.ttf") format("truetype");
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  font-family: Arial, Helvetica, sans-serif;
+  /*border: 1px solid black;*/
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
