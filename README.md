@@ -20,12 +20,7 @@
  - [Future Work](https://github.com/A-bahaa/Sharify-Documentation#future-work) 
 
 ## disclaimer
- 
- **I've always loved the Spotify wrapped** at the end of the year to get reminded of my `top tracks` and `artists` of the year. What's even more fun is sharing your top tracks and artists with your friends. 
- 
- **Sadly, Spotify Wrapped comes out only once a year**, so I thought it would be fun to build a tool that gets your Spotify `top tracks` and `artist` of the last month all year and allows us music freaks to share, preview and save these tracks seamlessly.
- 
- **Another thing I always wished that Spotify allows sharing** is your `liked tracks` In your library. Currently, you can't share them or even save them to a separate playlist.
+ - To be able to login with spotify and use the app, your email should be added to the app's allowlist that's because Sharify currently on [development mode](https://developer.spotify.com/documentation/web-api/concepts/quota-modes#:~:text=App%20Settings%3A-,Development%20mode,-Newly%2Dcreated%20apps)
  
  
  ## Motivation
