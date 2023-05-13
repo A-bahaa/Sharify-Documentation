@@ -20,7 +20,9 @@
  - [Future Work](https://github.com/A-bahaa/Sharify-Documentation#future-work) 
 
 ## disclaimer
- - To be able to login with spotify and use the app, your email should be added to the app's allowlist that's because Sharify currently on [development mode](https://developer.spotify.com/documentation/web-api/concepts/quota-modes#:~:text=App%20Settings%3A-,Development%20mode,-Newly%2Dcreated%20apps)
+ - To be able to login with spotify and use the app, your email should be added to the app's allowlist that's because Sharify currently on [development mode](https://developer.spotify.com/documentation/web-api/concepts/quota-modes#:~:text=App%20Settings%3A-,Development%20mode,-Newly%2Dcreated%20apps).
+ - To gain add your email to Sharify's allowlist reach out to [Ahmed Ghonim](https://www.linkedin.com/in/ahmed-ghonim-6643251a4/).
+ - To get a glimpse of what Sharify has to offer, here are my [Top Tracks](https://sharify-gh.netlify.app/TopTracks?id=6445850d1394f9ebb95f670d) as recorded on Apr 23.
  
  
  ## Motivation
