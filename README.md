@@ -1,7 +1,7 @@
 # Sharify
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/65967989/233854956-300c21e4-cbc6-4fd4-a9b8-613ce8ccfe24.png" />
+  <img src="https://user-images.githubusercontent.com/65967989/233854956-300c21e4-cbc6-4fd4-a9b8-613ce8ccfe24.png" style="width: 300px; height: 300px;"/>
 </p>
 <p align="center"> 
   <h1 align="center">Sharify your Spotify</h1>
