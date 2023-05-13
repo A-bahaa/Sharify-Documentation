@@ -18,6 +18,14 @@
  - [Demo](https://github.com/A-bahaa/Sharify-Documentation#demo)
  - [Preview](https://github.com/A-bahaa/Sharify-Documentation#preview)
  - [Future Work](https://github.com/A-bahaa/Sharify-Documentation#future-work) 
+
+## disclaimer
+ 
+ **I've always loved the Spotify wrapped** at the end of the year to get reminded of my `top tracks` and `artists` of the year. What's even more fun is sharing your top tracks and artists with your friends. 
+ 
+ **Sadly, Spotify Wrapped comes out only once a year**, so I thought it would be fun to build a tool that gets your Spotify `top tracks` and `artist` of the last month all year and allows us music freaks to share, preview and save these tracks seamlessly.
+ 
+ **Another thing I always wished that Spotify allows sharing** is your `liked tracks` In your library. Currently, you can't share them or even save them to a separate playlist.
  
  
  ## Motivation
