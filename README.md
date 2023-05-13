@@ -9,7 +9,7 @@
 
 
 ## content
-
+ - [Disclaimer](https://github.com/A-bahaa/Sharify-Documentation#disclaimer) 
  - [Motivation](https://github.com/A-bahaa/Sharify-Documentation#motivation) 
  - [Capabilties](https://github.com/A-bahaa/Sharify-Documentation#capabilties)
  - [Product Design](https://github.com/A-bahaa/Sharify-Documentation#product-design)
