@@ -55,7 +55,11 @@
       "last 1 safari version"
     ]
   },
+  "overrides": {
+    "@svgr/webpack": "$@svgr/webpack"
+  },
   "devDependencies": {
+    "@svgr/webpack": "^8.0.1",
     "cypress": "^12.12.0",
     "react-scripts": "5.0.1"
   }
