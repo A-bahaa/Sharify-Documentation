@@ -20,33 +20,33 @@
  - [Future Work](https://github.com/A-bahaa/Sharify-Documentation#future-work) 
 
 ## Disclaimer
- - To be able to login with spotify and use the app, your email should be added to the app's allowlist that's because Sharify currently on [development mode](https://developer.spotify.com/documentation/web-api/concepts/quota-modes#:~:text=App%20Settings%3A-,Development%20mode,-Newly%2Dcreated%20apps).
- - To add your email to Sharify's allowlist reach out to [Ahmed Ghonim](https://www.linkedin.com/in/ahmed-ghonim-6643251a4/).
+ - To be able to log in with Spotify and use the app, your email should be added to the app's allowlist. That's because Sharify is currently in [development mode](https://developer.spotify.com/documentation/web-api/concepts/quota-modes#:~:text=App%20Settings%3A-,Development%20mode,-Newly%2Dcreated%20apps).
+ - To add your email to Sharify's allowlist, reach out to [Ahmed Ghonim](https://www.linkedin.com/in/ahmed-ghonim-6643251a4/).
  - To get a glimpse of what Sharify has to offer, here are my [Top Tracks](https://sharify-gh.netlify.app/TopTracks?id=6445850d1394f9ebb95f670d) as recorded on Apr 23.
  
  
  ## Motivation
  
- **I've always loved the Spotify wrapped** at the end of the year to get reminded of my `top tracks` and `artists` of the year. What's even more fun is sharing your top tracks and artists with your friends. 
+ **I've always loved the Spotify Wrapped** at the end of the year to get reminded of my `top tracks` and `artists` of the year. What's even more fun is sharing your top tracks and artists with your friends. 
  
  **Sadly, Spotify Wrapped comes out only once a year**, so I thought it would be fun to build a tool that gets your Spotify `top tracks` and `artist` of the last month all year and allows us music freaks to share, preview and save these tracks seamlessly.
  
- **Another thing I always wished that Spotify allows sharing** is your `liked tracks` In your library. Currently, you can't share them or even save them to a separate playlist.
+ **Another thing I always wished that Spotify allowed sharing** is your `liked tracks` In your library. Currently, you can't share them or even save them to a separate playlist.
  
  ## Capabilties
  
-### **Sharify offers the following :**
+### **Sharify offers the following:**
 - Get your `top tracks` and `artists` from your last month on Spotify.
 - Get your all-time `liked tracks` on your Spotify library.
 - Preview your `top tracks`, `top artists`, and `liked tracks` seamlessly on Sharify.
 - Save and remove specific tracks to your Spotify library.
-- Follow and Unfollow specific artists.
+- Follow and unfollow specific artists.
 - Sort different tracks on the release date, popularity, and affinity.
-- Sort different artists on affinity and popularity.
+- Sort different artists by affinity and popularity.
 - Save your `top tracks` from last month to a separate playlist on your Spotify library.
 - Save your `liked tracks` from last month to a separate playlist on your Spotify library.
 - Share your `top tracks`, `top artists`, and `liked tracks`. Sharing is achieved by generating a preview link that your friends could open to preview and save your top tracks, top artists, and liked tracks seamlessly.
-- Preview link works with any user even if they're not registered on Sharify.
+- The preview link works with any user, even if they're not registered on Sharify.
 
 
 ## Product Design
@@ -55,13 +55,13 @@
   <img src="https://user-images.githubusercontent.com/65967989/233859149-7caa24cc-534e-41cc-a0c6-d5d064a2cc21.png" />
 </p>
 
-**I'll sum up the most important design thoughts in the following points :**
+**I'll sum up the most important design thoughts in the following points:**
 
 - The tracks are displayed in wide cards inside a n*4 grid to embrace the ease of use and add an aesthetic look to the page.
-- The logo is inspired by the DJ CDs. it even has a rotate animation to mimic the movement of the DJ CDs 
-- I used the same Circular fonts that Spotify use along with their heart icons to add familiarity to the user experience.
-- The preview zone is placed on the left side to inform the user about the current card they're hovering on along with some info about it like the genre, release date, and the popularity measurement.
-- the background color of the preview zone gets changed as the user hovers over different cards to mimic a very known Spotify practice.
+- The logo is inspired by the DJ CDs. It even has a rotate animation to mimic the movement of the DJ CDs 
+- I used the same Circular fonts that Spotify uses, along with their heart icons, to add familiarity to the user experience.
+- The preview zone is placed on the left side to inform the user about the current card they're hovering on, along with some info about it like the genre, release date, and the popularity measurement.
+- The background color of the preview zone gets changed as the user hovers over different cards to mimic a well-known Spotify practice.
 
 
 
@@ -76,19 +76,19 @@
 </p>
 
 
-- The implicit grant flow is carried out on the client side and it does not involve secret keys. Thus, you do not need any server-side code to use it. Access tokens issued are short-lived with no refresh token to extend them when they expire.
+- The implicit grant flow is carried out on the client side, and it does not involve secret keys. Thus, you do not need any server-side code to use it. Access tokens issued are short-lived with no refresh token to extend them when they expire.
 
-- Once the access token is expired, the user gets prompted with a modal to refresh the access token.
+- Once the access token expires, the user gets prompted with a modal to refresh the access token.
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/65967989/233858332-ad34b5f3-7fea-42c1-92fb-3b6f55926c03.png" />
 </p>
 
-## How to gain Access ?
+## How to gain Access?
 
-**Currently**, the app on development mode and only 25 people can log in and try it out but the generated sharing links is available for any number of users.
+**Currently**, the app on development mode and only 25 people can log in and try it out, but the generated sharing links are available for any number of users.
 
-To gain access to Sharify reach out to me on [Instagram](https://www.instagram.com/ghonimzz/) .
+To access Sharify, contact me on [Instagram](https://www.instagram.com/ghonimzz/) .
 
 
 ## Demo 
@@ -98,7 +98,7 @@ To gain access to Sharify reach out to me on [Instagram](https://www.instagram.c
 
 
 ## Preview
-- The website is currently hosted on netlify at https://sharify-gh.netlify.app/
+- The website is currently hosted on Netlify at https://sharify-gh.netlify.app/
 
 ## Future work
 
